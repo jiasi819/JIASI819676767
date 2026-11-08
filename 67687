@@ -1,0 +1,29 @@
+ <div style="
+      background-color: #f5c542;
+      text-align:center;
+      padding: 40px;
+    ">
+      <img src='https://i.imgs.ovh/2026/11/08/1522246586b8a85565b1dc341a25236e.png' alt="外策局" width='200px' height='200px'>
+    </div>
+    <div style="
+      max-width:760px
+      margin:30px auto;
+      padding:15px;
+      line-height: 1.7;
+    "> 
+      <p>外策局作为罗斯凯利法的官方代表，负责与新艾利都其他区域进行联络和事务协调等公做。</p>
+      <p>· 维琳娜·艾嘉德：外务筹策局总务官，是部门的主要负责人。她气质优雅且能力极强，会亲自担任法厄同在新地区的向导。维琳娜本身也是一位S级风属性异常代理人。</p>
+      <p>· 诺姆·霍洛维尔：外务筹策局的首席技术官兼邦布工程师，本身也是一只邦布。她是一位S级火属性击破代理人，同时兼任玛瑟尔集团的技术核心与奥蕾莉亚学院的老师。</p>
+    </div>
+    <div style="
+      background-color: #f5c542;
+      text-align:center;
+      padding: 40px;
+      font-size:px;
+    ">
+      <p>罗斯凯利法·外策局</p>
+      <a href="https://i.imgs.ovh/2026/11/08/1522246586b8a85565b1dc341a25236e.png">图标链接</a>
+    </div>
+    <h1>欢迎来到新艾利都</h1>
+  </body>
+</html>
